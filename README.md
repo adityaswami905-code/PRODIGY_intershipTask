@@ -78,5 +78,5 @@ JWT_SECRET=
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Aditya Swami
